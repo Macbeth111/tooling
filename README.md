@@ -10,6 +10,9 @@ This repository hosts the code for the StegTechHub tooling website. The website 
 
 The project leverages the following technologies:
 
+THIS UPDATE IS JUST TO TEST JENKINS CONNECTION OVER SSH TO MY NFS SERVER.
+IF IT WORKED, i SHOULD SEE THIS VERY NOTE IN MY CONSOLE.
+
 - **Backend:**
   - PHP 8.3
   - MySQL
